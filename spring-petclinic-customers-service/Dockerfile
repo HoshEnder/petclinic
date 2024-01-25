@@ -1,0 +1,10 @@
+FROM eclipse-temurin:17-alpine
+
+VOLUME /opt/egbtm
+#ADD data /
+COPY target/spring-petclinic-customers-service-3.2.0.jar /app/
+
+WORKDIR /app
+
+ENV JAVA_OPTS=""
+ENTRYPOINT ["java", "-jar", "spring-petclinic-customers-service-3.2.0.jar"]
