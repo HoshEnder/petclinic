@@ -13,14 +13,16 @@ fi
 docker rmi -f spring-customers
 docker rmi -f spring-vets
 docker rmi -f spring-visits
+docker rmi -f spring-config
 
 docker rm -f visits-service
 docker rm -f vets-service
 docker rm -f customers-service
-
+docker rm -f config-server
 
 
 
 docker build --squash -t spring-customers -f spring-petclinic-customers-service/Dockerfile spring-petclinic-customers-service/.  
 docker build --squash -t spring-vets -f spring-petclinic-vets-service/Dockerfile spring-petclinic-vets-service/.  
 docker build --squash -t spring-visits -f spring-petclinic-visits-service/Dockerfile spring-petclinic-visits-service/.  
+docker build --squash -t spring-config -f spring-petclinic-config-server/Dockerfile spring-petclinic-config-server/.  

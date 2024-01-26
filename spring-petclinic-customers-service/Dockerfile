@@ -6,5 +6,6 @@ COPY target/spring-petclinic-customers-service-3.2.0.jar /app/
 
 WORKDIR /app
 
+ENV SPRING_PROFILES_ACTIVE docker,mysql
 ENV JAVA_OPTS=""
 ENTRYPOINT ["java", "-jar", "spring-petclinic-customers-service-3.2.0.jar"]

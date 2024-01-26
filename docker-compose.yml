@@ -164,14 +164,6 @@ services:
         - 3306:3306
       networks:
         - petclinic-network
-      deploy:
-        resources:
-          limits:
-            cpus: '1.0'  # Limite du CPU à 1 unité
-            memory: 500M  # Limite de la mémoire à 500 Megabytes
-          reservations:
-            cpus: '0.5'  # Réservation de CPU à 0.5 unité
-            memory: 250M  # Réservation de mémoire à 250 Megabytes
 
 networks:
   petclinic-network:

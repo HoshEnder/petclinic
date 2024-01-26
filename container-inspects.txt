@@ -1,0 +1,2826 @@
+[
+    {
+        "Id": "e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698",
+        "Created": "2024-01-26T01:34:56.957601693Z",
+        "Path": "java",
+        "Args": [
+            "org.springframework.boot.loader.launch.JarLauncher"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 74248,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:34:57.38171942Z",
+            "FinishedAt": "0001-01-01T00:00:00Z",
+            "Health": {
+                "Status": "healthy",
+                "FailingStreak": 0,
+                "Log": [
+                    {
+                        "Start": "2024-01-26T01:58:13.879087231Z",
+                        "End": "2024-01-26T01:58:13.907437926Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0HTTP/1.1 200 \r\nVary: Origin\r\nVary: Access-Control-Request-Method\r\nVary: Access-Control-Request-Headers\r\nLast-Modified: Fri, 29 Dec 2023 15:21:24 GMT\r\nAccept-Ranges: bytes\r\nContent-Type: text/html;charset=UTF-8\r\nContent-Language: en-US\r\nContent-Length: 637\r\nDate: Fri, 26 Jan 2024 01:58:13 GMT\r\n\r\n\r  0   637    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:18.91083689Z",
+                        "End": "2024-01-26T01:58:18.930244168Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   637    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\nHTTP/1.1 200 \r\nVary: Origin\r\nVary: Access-Control-Request-Method\r\nVary: Access-Control-Request-Headers\r\nLast-Modified: Fri, 29 Dec 2023 15:21:24 GMT\r\nAccept-Ranges: bytes\r\nContent-Type: text/html;charset=UTF-8\r\nContent-Language: en-US\r\nContent-Length: 637\r\nDate: Fri, 26 Jan 2024 01:58:18 GMT\r\n\r\n"
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:23.933878413Z",
+                        "End": "2024-01-26T01:58:23.950471152Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   637    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\nHTTP/1.1 200 \r\nVary: Origin\r\nVary: Access-Control-Request-Method\r\nVary: Access-Control-Request-Headers\r\nLast-Modified: Fri, 29 Dec 2023 15:21:24 GMT\r\nAccept-Ranges: bytes\r\nContent-Type: text/html;charset=UTF-8\r\nContent-Language: en-US\r\nContent-Length: 637\r\nDate: Fri, 26 Jan 2024 01:58:23 GMT\r\n\r\n"
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:28.95357142Z",
+                        "End": "2024-01-26T01:58:28.971407573Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   637    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\nHTTP/1.1 200 \r\nVary: Origin\r\nVary: Access-Control-Request-Method\r\nVary: Access-Control-Request-Headers\r\nLast-Modified: Fri, 29 Dec 2023 15:21:24 GMT\r\nAccept-Ranges: bytes\r\nContent-Type: text/html;charset=UTF-8\r\nContent-Language: en-US\r\nContent-Length: 637\r\nDate: Fri, 26 Jan 2024 01:58:28 GMT\r\n\r\n"
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:33.974888919Z",
+                        "End": "2024-01-26T01:58:33.993236863Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0HTTP/1.1 200 \r\nVary: Origin\r\nVary: Access-Control-Request-Method\r\nVary: Access-Control-Request-Headers\r\nLast-Modified: Fri, 29 Dec 2023 15:21:24 GMT\r\nAccept-Ranges: bytes\r\nContent-Type: text/html;charset=UTF-8\r\nContent-Language: en-US\r\nContent-Length: 637\r\nDate: Fri, 26 Jan 2024 01:58:33 GMT\r\n\r\n\r  0   637    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n"
+                    }
+                ]
+            }
+        },
+        "Image": "sha256:9a8c284cce30d356d702a590bcc6a3b80a8036d6e057003ea41a6bc565a5def3",
+        "ResolvConfPath": "/var/lib/docker/containers/e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698/hostname",
+        "HostsPath": "/var/lib/docker/containers/e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698/hosts",
+        "LogPath": "/var/lib/docker/containers/e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698/e6984dcc9a61504249e1379d7914352512db775123ee8ff76462a4d0141ac698-json.log",
+        "Name": "/config-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": [
+            "46d85e43ce709a16d0c406d8a5fd7bf56fdb872dff191e1619958e0cb62ad47e"
+        ],
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8888/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8888"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/05c86c92bb4cd4c63357580c85b96be3441fda5bf83d863ba568a2e4c747b48d-init/diff:/var/lib/docker/overlay2/d7396e444ebbc6defc53ced07fbd73a74fdb0128544c613e28b840c20028a3c9/diff:/var/lib/docker/overlay2/f650ea3f36bbc6193015dca33638d15709f8240a2ff159be1cff8e93d4886c1b/diff:/var/lib/docker/overlay2/522cdff4bdec48efe36985e3f51fb26b493fe74497ae774a3af5754b10b3e05e/diff:/var/lib/docker/overlay2/a27af886c0b21ee9075d54ccef5607537159699568cfb07507626242d21b8f1d/diff:/var/lib/docker/overlay2/9736fed96b00078ab300cf4fc71e2af597d5a34ef5efbd2bcd6c74543135116e/diff:/var/lib/docker/overlay2/e4a122a4104743e6e9eb2e9b0754bc4514af85139437ef1bb4384caf309d546e/diff:/var/lib/docker/overlay2/30686ff00d84be286aa930974bb7a904a2bcddbf2ec5c9d2bd81cf922bfd6ce4/diff:/var/lib/docker/overlay2/c041050820d9b2e1bc1e84c1a9b560c90277acb766da676c2166837abc8aeeb1/diff:/var/lib/docker/overlay2/3053f2d59cf9a0df11f8d87e9e8b2ddc6f328f77e0467e1368060ba3aebf1e35/diff:/var/lib/docker/overlay2/5e9d872e6f8991b46ed47a719b852cacfd41b3570cb11df452c300ddfc55bd64/diff",
+                "MergedDir": "/var/lib/docker/overlay2/05c86c92bb4cd4c63357580c85b96be3441fda5bf83d863ba568a2e4c747b48d/merged",
+                "UpperDir": "/var/lib/docker/overlay2/05c86c92bb4cd4c63357580c85b96be3441fda5bf83d863ba568a2e4c747b48d/diff",
+                "WorkDir": "/var/lib/docker/overlay2/05c86c92bb4cd4c63357580c85b96be3441fda5bf83d863ba568a2e4c747b48d/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "e6984dcc9a61",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8888/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.9+9",
+                "SPRING_PROFILES_ACTIVE=docker"
+            ],
+            "Cmd": null,
+            "Healthcheck": {
+                "Test": [
+                    "CMD",
+                    "curl",
+                    "-I",
+                    "http://config-server:8888"
+                ],
+                "Interval": 5000000000,
+                "Timeout": 5000000000,
+                "Retries": 10
+            },
+            "Image": "springcommunity/spring-petclinic-config-server",
+            "Volumes": null,
+            "WorkingDir": "/application",
+            "Entrypoint": [
+                "java",
+                "org.springframework.boot.loader.launch.JarLauncher"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "3fe352676d095c8f08f7609b63027586081f1f98c0551e55da505ce8b51b67a4",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "config-server",
+                "com.docker.compose.version": "1.29.2",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "22.04"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "6ab1213c79bd2667b2cba178e9525e5682ca2a3673f7a6fcd62c8861662c13ba",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8888/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8888"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/6ab1213c79bd",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "config-server",
+                        "e6984dcc9a61"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:04",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "34b883d93cb593f5ba9c24ef62894a92f40e581943770947cb1f9734576fe299",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.4",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8",
+        "Created": "2024-01-26T01:35:02.492156976Z",
+        "Path": "java",
+        "Args": [
+            "org.springframework.boot.loader.launch.JarLauncher"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 74809,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:02.685912688Z",
+            "FinishedAt": "0001-01-01T00:00:00Z",
+            "Health": {
+                "Status": "healthy",
+                "FailingStreak": 0,
+                "Log": [
+                    {
+                        "Start": "2024-01-26T01:58:15.511860508Z",
+                        "End": "2024-01-26T01:58:15.544015145Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\u003c!doctype html\u003e\n\u003chtml lang=\"en\"\u003e\n  \u003chead\u003e\n    \u003cbase href=\"/\"\u003e\n    \u003cmeta charset=\"utf-8\"\u003e\n    \u003ctitle\u003eEureka\u003c/title\u003e\n    \u003cmeta name=\"description\" content=\"\"\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width\"\u003e\n\n    \u003clink rel=\"stylesheet\" href=\"eureka/css/wro.css\"\u003e\n\n  \u003c/head\u003e\n\n  \u003cbody id=\"one\"\u003e\n    \u003cscript type=\"text/javascript\"\u003e\n      if ( document.documentMode ) {\n         document.write('\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. Please upgrade your browser to improve your experience.\u003c/p\u003e');\n      }\n    \u003c/script\u003e\n\n\u003cnav class=\"navbar navbar-expand-md navbar-dark\" role=\"navigation\"\u003e\n  \u003cdiv class=\"container\"\u003e\n    \u003ca class=\"navbar-brand my-auto\" href=\"\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e\n    \u003cbutton type=\"button\" class=\"navbar-toggler\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"\u003e\n      \u003cspan class=\"navbar-toggler-icon\"\u003e\u003c/span\u003e\n    \u003c/button\u003e\n    \u003cdiv class=\"collapse navbar-collapse\" id=\"navbarContent\"\u003e\n      \u003cul class=\"navbar-nav ms-auto\"\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"\"\u003eHome\u003c/a\u003e\n        \u003c/li\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"/lastn\"\u003eLast 1000 since startup\u003c/a\u003e\n        \u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n  \u003c/div\u003e\n\u003c/nav\u003e\n\n\n    \u003cdiv class=\"container-fluid xd-container\"\u003e\n\u003ch1\u003eSystem Status\u003c/h1\u003e\n\u003cdiv class=\"row\"\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n            \u003ctr\u003e\n        \u003ctd\u003eEnvironment\u003c/td\u003e\n        \u003ctd\u003etest\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eData center\u003c/td\u003e\n        \u003ctd\u003edefault\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eCurrent time\u003c/td\u003e\n        \u003ctd\u003e2024-01-26T01:58:15 +0000\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eUptime\u003c/td\u003e\n        \u003ctd\u003e00:23\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eLease expiration enabled\u003c/td\u003e\n        \u003ctd\u003efalse\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews threshold\u003c/td\u003e\n        \u003ctd\u003e5\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews (last min)\u003c/td\u003e\n        \u003ctd\u003e4\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\n        \u003ch4 id=\"uptime\"\u003e\u003cfont size=\"+1\" color=\"red\"\u003e\u003cb\u003eEMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE.\u003c/b\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003ch1\u003eDS Replicas\u003c/h1\u003e\n\u003cul class=\"list-group mb-3\"\u003e\n\u003c/ul\u003e\n\n      \u003ch1\u003eInstances currently registered with Eureka\u003c/h1\u003e\n      \u003ctable id='instances' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003eApplication\u003c/th\u003e\u003cth\u003eAMIs\u003c/th\u003e\u003cth\u003eAvailability Zones\u003c/th\u003e\u003cth\u003eStatus\u003c/th\u003e\u003c/tr\u003e\n        \u003c/thead\u003e\n        \u003ctbody\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eADMIN-SERVER\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://22a1d19e5e64:9090/actuator/info\" target=\"_blank\"\u003e22a1d19e5e64:admin-server:9090\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eAPI-GATEWAY\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://739108eca926:8080/actuator/info\" target=\"_blank\"\u003e739108eca926:api-gateway:8080\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n\n        \u003c/tbody\u003e\n      \u003c/table\u003e\n\n      \u003ch1\u003eGeneral Info\u003c/h1\u003e\n\n      \u003ctable id='generalInfo' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003e..."
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:20.547420014Z",
+                        "End": "2024-01-26T01:58:20.570297614Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\u003c!doctype html\u003e\n\u003chtml lang=\"en\"\u003e\n  \u003chead\u003e\n    \u003cbase href=\"/\"\u003e\n    \u003cmeta charset=\"utf-8\"\u003e\n    \u003ctitle\u003eEureka\u003c/title\u003e\n    \u003cmeta name=\"description\" content=\"\"\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width\"\u003e\n\n    \u003clink rel=\"stylesheet\" href=\"eureka/css/wro.css\"\u003e\n\n  \u003c/head\u003e\n\n  \u003cbody id=\"one\"\u003e\n    \u003cscript type=\"text/javascript\"\u003e\n      if ( document.documentMode ) {\n         document.write('\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. Please upgrade your browser to improve your experience.\u003c/p\u003e');\n      }\n    \u003c/script\u003e\n\n\u003cnav class=\"navbar navbar-expand-md navbar-dark\" role=\"navigation\"\u003e\n  \u003cdiv class=\"container\"\u003e\n    \u003ca class=\"navbar-brand my-auto\" href=\"\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e\n    \u003cbutton type=\"button\" class=\"navbar-toggler\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"\u003e\n      \u003cspan class=\"navbar-toggler-icon\"\u003e\u003c/span\u003e\n    \u003c/button\u003e\n    \u003cdiv class=\"collapse navbar-collapse\" id=\"navbarContent\"\u003e\n      \u003cul class=\"navbar-nav ms-auto\"\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"\"\u003eHome\u003c/a\u003e\n        \u003c/li\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"/lastn\"\u003eLast 1000 since startup\u003c/a\u003e\n        \u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n  \u003c/div\u003e\n\u003c/nav\u003e\n\n\n    \u003cdiv class=\"container-fluid xd-container\"\u003e\n\u003ch1\u003eSystem Status\u003c/h1\u003e\n\u003cdiv class=\"row\"\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n            \u003ctr\u003e\n        \u003ctd\u003eEnvironment\u003c/td\u003e\n        \u003ctd\u003etest\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eData center\u003c/td\u003e\n        \u003ctd\u003edefault\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eCurrent time\u003c/td\u003e\n        \u003ctd\u003e2024-01-26T01:58:20 +0000\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eUptime\u003c/td\u003e\n        \u003ctd\u003e00:23\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eLease expiration enabled\u003c/td\u003e\n        \u003ctd\u003efalse\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews threshold\u003c/td\u003e\n        \u003ctd\u003e5\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews (last min)\u003c/td\u003e\n        \u003ctd\u003e4\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\n        \u003ch4 id=\"uptime\"\u003e\u003cfont size=\"+1\" color=\"red\"\u003e\u003cb\u003eEMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE.\u003c/b\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003ch1\u003eDS Replicas\u003c/h1\u003e\n\u003cul class=\"list-group mb-3\"\u003e\n\u003c/ul\u003e\n\n      \u003ch1\u003eInstances currently registered with Eureka\u003c/h1\u003e\n      \u003ctable id='instances' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003eApplication\u003c/th\u003e\u003cth\u003eAMIs\u003c/th\u003e\u003cth\u003eAvailability Zones\u003c/th\u003e\u003cth\u003eStatus\u003c/th\u003e\u003c/tr\u003e\n        \u003c/thead\u003e\n        \u003ctbody\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eADMIN-SERVER\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://22a1d19e5e64:9090/actuator/info\" target=\"_blank\"\u003e22a1d19e5e64:admin-server:9090\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eAPI-GATEWAY\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://739108eca926:8080/actuator/info\" target=\"_blank\"\u003e739108eca926:api-gateway:8080\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n\n        \u003c/tbody\u003e\n      \u003c/table\u003e\n\n      \u003ch1\u003eGeneral Info\u003c/h1\u003e\n\n      \u003ctable id='generalInfo' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003e..."
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:25.574158881Z",
+                        "End": "2024-01-26T01:58:25.601280473Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\u003c!doctype html\u003e\n\u003chtml lang=\"en\"\u003e\n  \u003chead\u003e\n    \u003cbase href=\"/\"\u003e\n    \u003cmeta charset=\"utf-8\"\u003e\n    \u003ctitle\u003eEureka\u003c/title\u003e\n    \u003cmeta name=\"description\" content=\"\"\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width\"\u003e\n\n    \u003clink rel=\"stylesheet\" href=\"eureka/css/wro.css\"\u003e\n\n  \u003c/head\u003e\n\n  \u003cbody id=\"one\"\u003e\n    \u003cscript type=\"text/javascript\"\u003e\n      if ( document.documentMode ) {\n         document.write('\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. Please upgrade your browser to improve your experience.\u003c/p\u003e');\n      }\n    \u003c/script\u003e\n\n\u003cnav class=\"navbar navbar-expand-md navbar-dark\" role=\"navigation\"\u003e\n  \u003cdiv class=\"container\"\u003e\n    \u003ca class=\"navbar-brand my-auto\" href=\"\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e\n    \u003cbutton type=\"button\" class=\"navbar-toggler\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"\u003e\n      \u003cspan class=\"navbar-toggler-icon\"\u003e\u003c/span\u003e\n    \u003c/button\u003e\n    \u003cdiv class=\"collapse navbar-collapse\" id=\"navbarContent\"\u003e\n      \u003cul class=\"navbar-nav ms-auto\"\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"\"\u003eHome\u003c/a\u003e\n        \u003c/li\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"/lastn\"\u003eLast 1000 since startup\u003c/a\u003e\n        \u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n  \u003c/div\u003e\n\u003c/nav\u003e\n\n\n    \u003cdiv class=\"container-fluid xd-container\"\u003e\n\u003ch1\u003eSystem Status\u003c/h1\u003e\n\u003cdiv class=\"row\"\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n            \u003ctr\u003e\n        \u003ctd\u003eEnvironment\u003c/td\u003e\n        \u003ctd\u003etest\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eData center\u003c/td\u003e\n        \u003ctd\u003edefault\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eCurrent time\u003c/td\u003e\n        \u003ctd\u003e2024-01-26T01:58:25 +0000\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eUptime\u003c/td\u003e\n        \u003ctd\u003e00:23\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eLease expiration enabled\u003c/td\u003e\n        \u003ctd\u003efalse\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews threshold\u003c/td\u003e\n        \u003ctd\u003e5\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews (last min)\u003c/td\u003e\n        \u003ctd\u003e4\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\n        \u003ch4 id=\"uptime\"\u003e\u003cfont size=\"+1\" color=\"red\"\u003e\u003cb\u003eEMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE.\u003c/b\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003ch1\u003eDS Replicas\u003c/h1\u003e\n\u003cul class=\"list-group mb-3\"\u003e\n\u003c/ul\u003e\n\n      \u003ch1\u003eInstances currently registered with Eureka\u003c/h1\u003e\n      \u003ctable id='instances' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003eApplication\u003c/th\u003e\u003cth\u003eAMIs\u003c/th\u003e\u003cth\u003eAvailability Zones\u003c/th\u003e\u003cth\u003eStatus\u003c/th\u003e\u003c/tr\u003e\n        \u003c/thead\u003e\n        \u003ctbody\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eADMIN-SERVER\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://22a1d19e5e64:9090/actuator/info\" target=\"_blank\"\u003e22a1d19e5e64:admin-server:9090\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eAPI-GATEWAY\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://739108eca926:8080/actuator/info\" target=\"_blank\"\u003e739108eca926:api-gateway:8080\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n\n        \u003c/tbody\u003e\n      \u003c/table\u003e\n\n      \u003ch1\u003eGeneral Info\u003c/h1\u003e\n\n      \u003ctable id='generalInfo' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003e..."
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:30.605728255Z",
+                        "End": "2024-01-26T01:58:30.628571581Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\u003c!doctype html\u003e\n\u003chtml lang=\"en\"\u003e\n  \u003chead\u003e\n    \u003cbase href=\"/\"\u003e\n    \u003cmeta charset=\"utf-8\"\u003e\n    \u003ctitle\u003eEureka\u003c/title\u003e\n    \u003cmeta name=\"description\" content=\"\"\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width\"\u003e\n\n    \u003clink rel=\"stylesheet\" href=\"eureka/css/wro.css\"\u003e\n\n  \u003c/head\u003e\n\n  \u003cbody id=\"one\"\u003e\n    \u003cscript type=\"text/javascript\"\u003e\n      if ( document.documentMode ) {\n         document.write('\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. Please upgrade your browser to improve your experience.\u003c/p\u003e');\n      }\n    \u003c/script\u003e\n\n\u003cnav class=\"navbar navbar-expand-md navbar-dark\" role=\"navigation\"\u003e\n  \u003cdiv class=\"container\"\u003e\n    \u003ca class=\"navbar-brand my-auto\" href=\"\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e\n    \u003cbutton type=\"button\" class=\"navbar-toggler\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"\u003e\n      \u003cspan class=\"navbar-toggler-icon\"\u003e\u003c/span\u003e\n    \u003c/button\u003e\n    \u003cdiv class=\"collapse navbar-collapse\" id=\"navbarContent\"\u003e\n      \u003cul class=\"navbar-nav ms-auto\"\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"\"\u003eHome\u003c/a\u003e\n        \u003c/li\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"/lastn\"\u003eLast 1000 since startup\u003c/a\u003e\n        \u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n  \u003c/div\u003e\n\u003c/nav\u003e\n\n\n    \u003cdiv class=\"container-fluid xd-container\"\u003e\n\u003ch1\u003eSystem Status\u003c/h1\u003e\n\u003cdiv class=\"row\"\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n            \u003ctr\u003e\n        \u003ctd\u003eEnvironment\u003c/td\u003e\n        \u003ctd\u003etest\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eData center\u003c/td\u003e\n        \u003ctd\u003edefault\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eCurrent time\u003c/td\u003e\n        \u003ctd\u003e2024-01-26T01:58:30 +0000\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eUptime\u003c/td\u003e\n        \u003ctd\u003e00:23\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eLease expiration enabled\u003c/td\u003e\n        \u003ctd\u003efalse\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews threshold\u003c/td\u003e\n        \u003ctd\u003e5\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews (last min)\u003c/td\u003e\n        \u003ctd\u003e4\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\n        \u003ch4 id=\"uptime\"\u003e\u003cfont size=\"+1\" color=\"red\"\u003e\u003cb\u003eEMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE.\u003c/b\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003ch1\u003eDS Replicas\u003c/h1\u003e\n\u003cul class=\"list-group mb-3\"\u003e\n\u003c/ul\u003e\n\n      \u003ch1\u003eInstances currently registered with Eureka\u003c/h1\u003e\n      \u003ctable id='instances' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003eApplication\u003c/th\u003e\u003cth\u003eAMIs\u003c/th\u003e\u003cth\u003eAvailability Zones\u003c/th\u003e\u003cth\u003eStatus\u003c/th\u003e\u003c/tr\u003e\n        \u003c/thead\u003e\n        \u003ctbody\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eADMIN-SERVER\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://22a1d19e5e64:9090/actuator/info\" target=\"_blank\"\u003e22a1d19e5e64:admin-server:9090\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eAPI-GATEWAY\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://739108eca926:8080/actuator/info\" target=\"_blank\"\u003e739108eca926:api-gateway:8080\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n\n        \u003c/tbody\u003e\n      \u003c/table\u003e\n\n      \u003ch1\u003eGeneral Info\u003c/h1\u003e\n\n      \u003ctable id='generalInfo' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003e..."
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:35.63357612Z",
+                        "End": "2024-01-26T01:58:35.657348684Z",
+                        "ExitCode": 0,
+                        "Output": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\u003c!doctype html\u003e\n\u003chtml lang=\"en\"\u003e\n  \u003chead\u003e\n    \u003cbase href=\"/\"\u003e\n    \u003cmeta charset=\"utf-8\"\u003e\n    \u003ctitle\u003eEureka\u003c/title\u003e\n    \u003cmeta name=\"description\" content=\"\"\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width\"\u003e\n\n    \u003clink rel=\"stylesheet\" href=\"eureka/css/wro.css\"\u003e\n\n  \u003c/head\u003e\n\n  \u003cbody id=\"one\"\u003e\n    \u003cscript type=\"text/javascript\"\u003e\n      if ( document.documentMode ) {\n         document.write('\u003cp\u003eYou are using an \u003cstrong\u003eoutdated\u003c/strong\u003e browser. Please upgrade your browser to improve your experience.\u003c/p\u003e');\n      }\n    \u003c/script\u003e\n\n\u003cnav class=\"navbar navbar-expand-md navbar-dark\" role=\"navigation\"\u003e\n  \u003cdiv class=\"container\"\u003e\n    \u003ca class=\"navbar-brand my-auto\" href=\"\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/a\u003e\n    \u003cbutton type=\"button\" class=\"navbar-toggler\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"\u003e\n      \u003cspan class=\"navbar-toggler-icon\"\u003e\u003c/span\u003e\n    \u003c/button\u003e\n    \u003cdiv class=\"collapse navbar-collapse\" id=\"navbarContent\"\u003e\n      \u003cul class=\"navbar-nav ms-auto\"\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"\"\u003eHome\u003c/a\u003e\n        \u003c/li\u003e\n        \u003cli class=\"nav-item\"\u003e\n          \u003ca class=\"nav-link px-2\" href=\"/lastn\"\u003eLast 1000 since startup\u003c/a\u003e\n        \u003c/li\u003e\n      \u003c/ul\u003e\n    \u003c/div\u003e\n  \u003c/div\u003e\n\u003c/nav\u003e\n\n\n    \u003cdiv class=\"container-fluid xd-container\"\u003e\n\u003ch1\u003eSystem Status\u003c/h1\u003e\n\u003cdiv class=\"row\"\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n            \u003ctr\u003e\n        \u003ctd\u003eEnvironment\u003c/td\u003e\n        \u003ctd\u003etest\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eData center\u003c/td\u003e\n        \u003ctd\u003edefault\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n  \u003cdiv class=\"col-md-6\"\u003e\n    \u003ctable id='instances' class=\"table table-condensed table-striped table-hover\"\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eCurrent time\u003c/td\u003e\n        \u003ctd\u003e2024-01-26T01:58:35 +0000\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eUptime\u003c/td\u003e\n        \u003ctd\u003e00:23\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eLease expiration enabled\u003c/td\u003e\n        \u003ctd\u003efalse\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews threshold\u003c/td\u003e\n        \u003ctd\u003e5\u003c/td\u003e\n      \u003c/tr\u003e\n      \u003ctr\u003e\n        \u003ctd\u003eRenews (last min)\u003c/td\u003e\n        \u003ctd\u003e4\u003c/td\u003e\n      \u003c/tr\u003e\n    \u003c/table\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\n        \u003ch4 id=\"uptime\"\u003e\u003cfont size=\"+1\" color=\"red\"\u003e\u003cb\u003eEMERGENCY! EUREKA MAY BE INCORRECTLY CLAIMING INSTANCES ARE UP WHEN THEY'RE NOT. RENEWALS ARE LESSER THAN THRESHOLD AND HENCE THE INSTANCES ARE NOT BEING EXPIRED JUST TO BE SAFE.\u003c/b\u003e\u003c/font\u003e\u003c/h4\u003e\n\n\u003ch1\u003eDS Replicas\u003c/h1\u003e\n\u003cul class=\"list-group mb-3\"\u003e\n\u003c/ul\u003e\n\n      \u003ch1\u003eInstances currently registered with Eureka\u003c/h1\u003e\n      \u003ctable id='instances' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003eApplication\u003c/th\u003e\u003cth\u003eAMIs\u003c/th\u003e\u003cth\u003eAvailability Zones\u003c/th\u003e\u003cth\u003eStatus\u003c/th\u003e\u003c/tr\u003e\n        \u003c/thead\u003e\n        \u003ctbody\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eADMIN-SERVER\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://22a1d19e5e64:9090/actuator/info\" target=\"_blank\"\u003e22a1d19e5e64:admin-server:9090\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n              \u003ctr\u003e\n                \u003ctd\u003e\u003cb\u003eAPI-GATEWAY\u003c/b\u003e\u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003en/a\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003e\u003c/b\u003e (1)\n                \u003c/td\u003e\n                \u003ctd\u003e\n                    \u003cb\u003eUP\u003c/b\u003e (1) -\n                        \u003ca href=\"http://739108eca926:8080/actuator/info\" target=\"_blank\"\u003e739108eca926:api-gateway:8080\u003c/a\u003e\n\n                \u003c/td\u003e\n              \u003c/tr\u003e\n\n        \u003c/tbody\u003e\n      \u003c/table\u003e\n\n      \u003ch1\u003eGeneral Info\u003c/h1\u003e\n\n      \u003ctable id='generalInfo' class=\"table table-striped table-hover\"\u003e\n        \u003cthead\u003e\n          \u003ctr\u003e\u003cth\u003e..."
+                    }
+                ]
+            }
+        },
+        "Image": "sha256:7e08e8f52a0f858eaeeede44beb083485c6ad046e2a4db71c6bfba3807d647fb",
+        "ResolvConfPath": "/var/lib/docker/containers/20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8/hostname",
+        "HostsPath": "/var/lib/docker/containers/20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8/hosts",
+        "LogPath": "/var/lib/docker/containers/20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8/20a58ec70c60f58dd865006465002695fe272e7abf95a9533c511917736e39c8-json.log",
+        "Name": "/discovery-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8761/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8761"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/7c82fa865459becaa4a6cbf6d473d5daefdc55c2db039e1686d798c998c953f2-init/diff:/var/lib/docker/overlay2/16f644f5b3a3ab9877d0f95335502800fa1c97ad457d976574458b4af7a76e23/diff:/var/lib/docker/overlay2/202e161244b2bf6460de49d505657b9095b4f62788b2babe5d9bc2cfdfaed5f3/diff:/var/lib/docker/overlay2/18b19caa294aee27b45719819d94e1600edb0779ccfd6651a7c4cd85e916e471/diff:/var/lib/docker/overlay2/39f6b60b7f521d657e615cbbfa2bffbb8c487806b8287249f0c60ec85f73d83d/diff:/var/lib/docker/overlay2/9736fed96b00078ab300cf4fc71e2af597d5a34ef5efbd2bcd6c74543135116e/diff:/var/lib/docker/overlay2/e4a122a4104743e6e9eb2e9b0754bc4514af85139437ef1bb4384caf309d546e/diff:/var/lib/docker/overlay2/30686ff00d84be286aa930974bb7a904a2bcddbf2ec5c9d2bd81cf922bfd6ce4/diff:/var/lib/docker/overlay2/c041050820d9b2e1bc1e84c1a9b560c90277acb766da676c2166837abc8aeeb1/diff:/var/lib/docker/overlay2/3053f2d59cf9a0df11f8d87e9e8b2ddc6f328f77e0467e1368060ba3aebf1e35/diff:/var/lib/docker/overlay2/5e9d872e6f8991b46ed47a719b852cacfd41b3570cb11df452c300ddfc55bd64/diff",
+                "MergedDir": "/var/lib/docker/overlay2/7c82fa865459becaa4a6cbf6d473d5daefdc55c2db039e1686d798c998c953f2/merged",
+                "UpperDir": "/var/lib/docker/overlay2/7c82fa865459becaa4a6cbf6d473d5daefdc55c2db039e1686d798c998c953f2/diff",
+                "WorkDir": "/var/lib/docker/overlay2/7c82fa865459becaa4a6cbf6d473d5daefdc55c2db039e1686d798c998c953f2/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "20a58ec70c60",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8761/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.9+9",
+                "SPRING_PROFILES_ACTIVE=docker"
+            ],
+            "Cmd": null,
+            "Healthcheck": {
+                "Test": [
+                    "CMD",
+                    "curl",
+                    "-f",
+                    "http://discovery-server:8761"
+                ],
+                "Interval": 5000000000,
+                "Timeout": 5000000000,
+                "Retries": 10
+            },
+            "Image": "springcommunity/spring-petclinic-discovery-server",
+            "Volumes": null,
+            "WorkingDir": "/application",
+            "Entrypoint": [
+                "java",
+                "org.springframework.boot.loader.launch.JarLauncher"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "a852b9393a4ebd0bf574a299cbc5a8cff3e50b25f25c616d7f29f16b75523e89",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "discovery-server",
+                "com.docker.compose.version": "1.29.2",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "22.04"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "3347941b1cd9829f7c46b86473fff285025342ce9c78419b529178ddfe263328",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8761/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8761"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/3347941b1cd9",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "discovery-server",
+                        "20a58ec70c60"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:07",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "b06e775f4184779bb1e830665987e52a8655c993a84ede9fb4e91ffbd0be11a3",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.7",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af",
+        "Created": "2024-01-26T01:35:12.859718983Z",
+        "Path": "java",
+        "Args": [
+            "-jar",
+            "spring-petclinic-customers-service-3.2.0.jar"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 75271,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:13.131931477Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:510b67ad5a09e03379d05f8929cf62e5f97e65bd8e0db7e27b3659465f471f53",
+        "ResolvConfPath": "/var/lib/docker/containers/f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af/hostname",
+        "HostsPath": "/var/lib/docker/containers/f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af/hosts",
+        "LogPath": "/var/lib/docker/containers/f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af/f9dcea6f3cfed3a61e675163e6875315c86685d19cb3e8b228126ec84ce950af-json.log",
+        "Name": "/customers-service",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8081/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8081"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/9c397e5e62a72ab336ed3d424caf55bfe71085fc308917b05522e070008eb733-init/diff:/var/lib/docker/overlay2/fp6cunxvo16r41mt0dwwd5rt4/diff:/var/lib/docker/overlay2/comzgboqb6ltgayal1ah29dtd/diff:/var/lib/docker/overlay2/23ebbc6bffdc01cc5729a215ebb59b059c161ea6d469d1ccf84cf7005f6dce0d/diff:/var/lib/docker/overlay2/01ab64b1487037d8908e32132dd0c1e5339bd8ecb900a7e457f65849cd396c8a/diff:/var/lib/docker/overlay2/cd1834ae2c5a56673a831f8e3cce01d1dd4d553c78c4f8b10d7eb2ee31d8f758/diff:/var/lib/docker/overlay2/7730fcf05a7db86056892ebaa50537a94ba35fe2e8c4e7b6256d14b0af51e38a/diff:/var/lib/docker/overlay2/119a8212619efe8c083403ff66ab8e89190b62686617a26736ddb531b9059cc4/diff",
+                "MergedDir": "/var/lib/docker/overlay2/9c397e5e62a72ab336ed3d424caf55bfe71085fc308917b05522e070008eb733/merged",
+                "UpperDir": "/var/lib/docker/overlay2/9c397e5e62a72ab336ed3d424caf55bfe71085fc308917b05522e070008eb733/diff",
+                "WorkDir": "/var/lib/docker/overlay2/9c397e5e62a72ab336ed3d424caf55bfe71085fc308917b05522e070008eb733/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "2f7c08c730b60a9f17e3a21b7beb3b5752abed67665fe3b24caf3ab61990cc96",
+                "Source": "/var/lib/docker/volumes/2f7c08c730b60a9f17e3a21b7beb3b5752abed67665fe3b24caf3ab61990cc96/_data",
+                "Destination": "/opt/egbtm",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "f9dcea6f3cfe",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8081/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "SPRING_PROFILES_ACTIVE=docker,mysql",
+                "DATABASE_HOST=mysql-server",
+                "DATABASE_PORT=3306",
+                "DATABASE_NAME=petclinic",
+                "DATABASE_USER=petclinic",
+                "DATABASE_PASSWORD=petclinicpassword",
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.10+7",
+                "JAVA_OPTS="
+            ],
+            "Cmd": null,
+            "Image": "spring-customers",
+            "Volumes": {
+                "/opt/egbtm": {}
+            },
+            "WorkingDir": "/app",
+            "Entrypoint": [
+                "java",
+                "-jar",
+                "spring-petclinic-customers-service-3.2.0.jar"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "7beac5e5a0b1949b8c0e215bf68c1bf429245d94d83cab5bb958a93cc0f1e687",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "customers-service",
+                "com.docker.compose.version": "1.29.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "835ccf8a0450b1144eb8763720e32eeb7f9e87da33eb90d61a06fe055191ed46",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8081/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8081"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/835ccf8a0450",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "f9dcea6f3cfe",
+                        "customers-service"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:08",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "d92648a774d5d431d729f1009d5903d0840b1f2df45fabfc0ff4a7eddb0b795b",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.8",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1",
+        "Created": "2024-01-26T01:35:12.99855477Z",
+        "Path": "java",
+        "Args": [
+            "-jar",
+            "spring-petclinic-visits-service-3.2.0.jar"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 75666,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:13.306637011Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:3cfe7001afcf16afeaf385084b86ea6a0c0ff487e6e21fd7f9886e22cbbef7af",
+        "ResolvConfPath": "/var/lib/docker/containers/a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1/hostname",
+        "HostsPath": "/var/lib/docker/containers/a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1/hosts",
+        "LogPath": "/var/lib/docker/containers/a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1/a294d265d5e21ee8a93a4865a864f1c62a7d0451879630075e515d5226439cd1-json.log",
+        "Name": "/visits-service",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8097/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8097"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/04e31cb350351e5f5bbe552356cf04f4837c847c0680a2ad52f83086c8ae7a89-init/diff:/var/lib/docker/overlay2/p1n5nkyon4c6axdgdgfo4yvut/diff:/var/lib/docker/overlay2/f93m6dx9k49v3vsaiqfwgecyz/diff:/var/lib/docker/overlay2/23ebbc6bffdc01cc5729a215ebb59b059c161ea6d469d1ccf84cf7005f6dce0d/diff:/var/lib/docker/overlay2/01ab64b1487037d8908e32132dd0c1e5339bd8ecb900a7e457f65849cd396c8a/diff:/var/lib/docker/overlay2/cd1834ae2c5a56673a831f8e3cce01d1dd4d553c78c4f8b10d7eb2ee31d8f758/diff:/var/lib/docker/overlay2/7730fcf05a7db86056892ebaa50537a94ba35fe2e8c4e7b6256d14b0af51e38a/diff:/var/lib/docker/overlay2/119a8212619efe8c083403ff66ab8e89190b62686617a26736ddb531b9059cc4/diff",
+                "MergedDir": "/var/lib/docker/overlay2/04e31cb350351e5f5bbe552356cf04f4837c847c0680a2ad52f83086c8ae7a89/merged",
+                "UpperDir": "/var/lib/docker/overlay2/04e31cb350351e5f5bbe552356cf04f4837c847c0680a2ad52f83086c8ae7a89/diff",
+                "WorkDir": "/var/lib/docker/overlay2/04e31cb350351e5f5bbe552356cf04f4837c847c0680a2ad52f83086c8ae7a89/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "fa374e68e6f5820f7df026ea81a6379fa1e7154c8a07f53016548fc727a56d62",
+                "Source": "/var/lib/docker/volumes/fa374e68e6f5820f7df026ea81a6379fa1e7154c8a07f53016548fc727a56d62/_data",
+                "Destination": "/opt/egbtm",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "a294d265d5e2",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8097/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "SPRING_PROFILES_ACTIVE=docker,mysql",
+                "DATABASE_HOST=mysql-server",
+                "DATABASE_PORT=3306",
+                "DATABASE_NAME=petclinic",
+                "DATABASE_USER=petclinic",
+                "DATABASE_PASSWORD=petclinicpassword",
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.10+7",
+                "JAVA_OPTS="
+            ],
+            "Cmd": null,
+            "Image": "spring-visits",
+            "Volumes": {
+                "/opt/egbtm": {}
+            },
+            "WorkingDir": "/app",
+            "Entrypoint": [
+                "java",
+                "-jar",
+                "spring-petclinic-visits-service-3.2.0.jar"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "8040ac7e59943598691abdbb22eb00cc4a250b08f43e1380ce6b0231f46253e4",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "visits-service",
+                "com.docker.compose.version": "1.29.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "43a5a8e69b7da4f3c48b5fba327681e90a661e709cef11766e7b246b7c1ce3b2",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8097/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8097"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/43a5a8e69b7d",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "a294d265d5e2",
+                        "visits-service"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:0b",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "8539e939080b3fe36240651345cbf3b1918f4cac37d44b0223a08efcedc1be0b",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.11",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54",
+        "Created": "2024-01-26T01:35:13.010850977Z",
+        "Path": "java",
+        "Args": [
+            "-jar",
+            "spring-petclinic-vets-service-3.2.0.jar"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 75762,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:13.39056431Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:b1122b5d2cb86059b7f3373840f4f0832a31470d5ee6323b69b8cc342d5daa9b",
+        "ResolvConfPath": "/var/lib/docker/containers/3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54/hostname",
+        "HostsPath": "/var/lib/docker/containers/3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54/hosts",
+        "LogPath": "/var/lib/docker/containers/3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54/3af3b7008fef92c81c5f8711e6b3f25a12c9a64ce6027285d7f660347ee76c54-json.log",
+        "Name": "/vets-service",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8083/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8083"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/4a42c603d3a715274bd6aaf6afb950fa573448d9bfd0b4baefc132276ce1a911-init/diff:/var/lib/docker/overlay2/vev3vucqokgc0znqx9mrjz6k0/diff:/var/lib/docker/overlay2/29wjjx2cy46nr2byemdjnn1kz/diff:/var/lib/docker/overlay2/23ebbc6bffdc01cc5729a215ebb59b059c161ea6d469d1ccf84cf7005f6dce0d/diff:/var/lib/docker/overlay2/01ab64b1487037d8908e32132dd0c1e5339bd8ecb900a7e457f65849cd396c8a/diff:/var/lib/docker/overlay2/cd1834ae2c5a56673a831f8e3cce01d1dd4d553c78c4f8b10d7eb2ee31d8f758/diff:/var/lib/docker/overlay2/7730fcf05a7db86056892ebaa50537a94ba35fe2e8c4e7b6256d14b0af51e38a/diff:/var/lib/docker/overlay2/119a8212619efe8c083403ff66ab8e89190b62686617a26736ddb531b9059cc4/diff",
+                "MergedDir": "/var/lib/docker/overlay2/4a42c603d3a715274bd6aaf6afb950fa573448d9bfd0b4baefc132276ce1a911/merged",
+                "UpperDir": "/var/lib/docker/overlay2/4a42c603d3a715274bd6aaf6afb950fa573448d9bfd0b4baefc132276ce1a911/diff",
+                "WorkDir": "/var/lib/docker/overlay2/4a42c603d3a715274bd6aaf6afb950fa573448d9bfd0b4baefc132276ce1a911/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "aca2c9d18a6c35b59ac4f6889ee80d9825ea8242222233771d33bb894cfacbe1",
+                "Source": "/var/lib/docker/volumes/aca2c9d18a6c35b59ac4f6889ee80d9825ea8242222233771d33bb894cfacbe1/_data",
+                "Destination": "/opt/egbtm",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "3af3b7008fef",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8083/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "SPRING_PROFILES_ACTIVE=docker,mysql",
+                "DATABASE_HOST=mysql-server",
+                "DATABASE_PORT=3306",
+                "DATABASE_NAME=petclinic",
+                "DATABASE_USER=petclinic",
+                "DATABASE_PASSWORD=petclinicpassword",
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.10+7",
+                "JAVA_OPTS="
+            ],
+            "Cmd": null,
+            "Image": "spring-vets",
+            "Volumes": {
+                "/opt/egbtm": {}
+            },
+            "WorkingDir": "/app",
+            "Entrypoint": [
+                "java",
+                "-jar",
+                "spring-petclinic-vets-service-3.2.0.jar"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "5c8e92278694eed62c6742a2385187176938f2eb8d6d6815bc488a740c644b10",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "vets-service",
+                "com.docker.compose.version": "1.29.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "443d82cc47783e52f1d2a8ea56de756ce52e1837cf56ad720c5741abf494479b",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8083/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8083"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/443d82cc4778",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "vets-service",
+                        "3af3b7008fef"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:0c",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "6f680b8d5a7e61eb02bf4b544c9fa31a50741389d49cfc6d7d007514e0a56d80",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.12",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae",
+        "Created": "2024-01-26T01:35:12.983431419Z",
+        "Path": "java",
+        "Args": [
+            "org.springframework.boot.loader.launch.JarLauncher"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 75667,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:13.276740309Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:f02a69969f68c3e338f4c2c9250d33aa943ce23af8120e32afc2bda3f9a01db6",
+        "ResolvConfPath": "/var/lib/docker/containers/739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae/hostname",
+        "HostsPath": "/var/lib/docker/containers/739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae/hosts",
+        "LogPath": "/var/lib/docker/containers/739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae/739108eca926f25cfcada60ce9b53e47ed2e932c874d43571c4e267885e158ae-json.log",
+        "Name": "/api-gateway",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "8080/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "8080"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/9c00bdea6a9fa99f16c3ea04f7daf175edb9a3b0f3a70c656cc3e3b3592b475d-init/diff:/var/lib/docker/overlay2/42326a49dad8cacbd0d7e59497fc503eeeae4313540aba512aa463f3e24b5941/diff:/var/lib/docker/overlay2/f99925310de4d112158c7be1067c1849bf529d87c473327b41d37044aac6a080/diff:/var/lib/docker/overlay2/e67171349a1a7f772c766eca428e6282c4ce1b9de640d5187b346772b75306d9/diff:/var/lib/docker/overlay2/7c9c823635ad24c6336029a8c9e15594deafd5cfd108a508d6320bdfccc923bb/diff:/var/lib/docker/overlay2/9736fed96b00078ab300cf4fc71e2af597d5a34ef5efbd2bcd6c74543135116e/diff:/var/lib/docker/overlay2/e4a122a4104743e6e9eb2e9b0754bc4514af85139437ef1bb4384caf309d546e/diff:/var/lib/docker/overlay2/30686ff00d84be286aa930974bb7a904a2bcddbf2ec5c9d2bd81cf922bfd6ce4/diff:/var/lib/docker/overlay2/c041050820d9b2e1bc1e84c1a9b560c90277acb766da676c2166837abc8aeeb1/diff:/var/lib/docker/overlay2/3053f2d59cf9a0df11f8d87e9e8b2ddc6f328f77e0467e1368060ba3aebf1e35/diff:/var/lib/docker/overlay2/5e9d872e6f8991b46ed47a719b852cacfd41b3570cb11df452c300ddfc55bd64/diff",
+                "MergedDir": "/var/lib/docker/overlay2/9c00bdea6a9fa99f16c3ea04f7daf175edb9a3b0f3a70c656cc3e3b3592b475d/merged",
+                "UpperDir": "/var/lib/docker/overlay2/9c00bdea6a9fa99f16c3ea04f7daf175edb9a3b0f3a70c656cc3e3b3592b475d/diff",
+                "WorkDir": "/var/lib/docker/overlay2/9c00bdea6a9fa99f16c3ea04f7daf175edb9a3b0f3a70c656cc3e3b3592b475d/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "739108eca926",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "8080/tcp": {},
+                "8081/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.9+9",
+                "SPRING_PROFILES_ACTIVE=docker"
+            ],
+            "Cmd": null,
+            "Image": "springcommunity/spring-petclinic-api-gateway",
+            "Volumes": null,
+            "WorkingDir": "/application",
+            "Entrypoint": [
+                "java",
+                "org.springframework.boot.loader.launch.JarLauncher"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "3aafd57d0f63063025551aea6e43ad63d1d896ea89de47c4f8dfaea716b790bc",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "api-gateway",
+                "com.docker.compose.version": "1.29.2",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "22.04"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "5ecbb5834109ddaa2448a1d4affc15b2639b36e8ca9b7e5c1d412ef779ed5ebb",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "8080/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "8080"
+                    }
+                ],
+                "8081/tcp": null
+            },
+            "SandboxKey": "/var/run/docker/netns/5ecbb5834109",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "api-gateway",
+                        "739108eca926"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:0a",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "8084dc832e772e8d01f683b631444246b9dac43da14e4254341849c88a5868e4",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.10",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80",
+        "Created": "2024-01-26T01:34:56.959381207Z",
+        "Path": "start-zipkin",
+        "Args": [],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 73930,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:34:57.190563394Z",
+            "FinishedAt": "0001-01-01T00:00:00Z",
+            "Health": {
+                "Status": "healthy",
+                "FailingStreak": 0,
+                "Log": [
+                    {
+                        "Start": "2024-01-26T01:58:18.9096309Z",
+                        "End": "2024-01-26T01:58:18.928834205Z",
+                        "ExitCode": 0,
+                        "Output": ""
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:23.933922606Z",
+                        "End": "2024-01-26T01:58:23.9488856Z",
+                        "ExitCode": 0,
+                        "Output": ""
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:28.953537596Z",
+                        "End": "2024-01-26T01:58:28.96941628Z",
+                        "ExitCode": 0,
+                        "Output": ""
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:33.973622471Z",
+                        "End": "2024-01-26T01:58:33.992340194Z",
+                        "ExitCode": 0,
+                        "Output": ""
+                    },
+                    {
+                        "Start": "2024-01-26T01:58:38.996171284Z",
+                        "End": "2024-01-26T01:58:39.012911194Z",
+                        "ExitCode": 0,
+                        "Output": ""
+                    }
+                ]
+            }
+        },
+        "Image": "sha256:f9a148880297604b1a556035614f0da073a0aaf3deb42333adc38c8b95db5e20",
+        "ResolvConfPath": "/var/lib/docker/containers/9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80/hostname",
+        "HostsPath": "/var/lib/docker/containers/9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80/hosts",
+        "LogPath": "/var/lib/docker/containers/9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80/9e87a8a7aa6d73d91b8c330004c474cddb088eadca81085c2d4691a058779f80-json.log",
+        "Name": "/tracing-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "9411/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "9411"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/41f114a453554e0ed1fadc396d6476f4e1d07b839c90c4808a6f95b01dd798b0-init/diff:/var/lib/docker/overlay2/58d70b516759738f159339b577be37bdfd756a7859d8abef5f3048085cc2ddc9/diff:/var/lib/docker/overlay2/4f0e0ef3ec0237108d7384369768e410f2b717046d380d7f897288096b019f71/diff:/var/lib/docker/overlay2/2096ceb86cb2b3811af0e75f1e611c7374d13e36326c9000eaaa240a6a1e25b4/diff:/var/lib/docker/overlay2/36d08ed9f5ca7d7a1b1908791089bdcc553df4b0cac51749cbafdc0f9b26b7f3/diff:/var/lib/docker/overlay2/f9bd0ca4ff423c8502d0d7a99c88178db57d238869cd02bfd175af4d4eb2dac5/diff:/var/lib/docker/overlay2/8a7dbf1fc29851dae41d5bb75ebf8a5984d0398f9b835853918d15dfebb03678/diff:/var/lib/docker/overlay2/de4124d1e9e2205636ce388f78e56fb31b6e9158e445f840e2e99c80ad6acbd9/diff:/var/lib/docker/overlay2/b3e8433a102cb2ac31a1ea0c1aee51940d2f3fc27cdf420c4eaa8bf0830f69e2/diff:/var/lib/docker/overlay2/de076020395049143981a65a62e3bb66223f1d02bf444c3378d0ac904c0637d4/diff",
+                "MergedDir": "/var/lib/docker/overlay2/41f114a453554e0ed1fadc396d6476f4e1d07b839c90c4808a6f95b01dd798b0/merged",
+                "UpperDir": "/var/lib/docker/overlay2/41f114a453554e0ed1fadc396d6476f4e1d07b839c90c4808a6f95b01dd798b0/diff",
+                "WorkDir": "/var/lib/docker/overlay2/41f114a453554e0ed1fadc396d6476f4e1d07b839c90c4808a6f95b01dd798b0/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "9e87a8a7aa6d",
+            "Domainname": "",
+            "User": "zipkin",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "9410/tcp": {},
+                "9411/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "JAVA_OPTS=-XX:+UnlockExperimentalVMOptions -Djava.security.egd=file:/dev/./urandom",
+                "PATH=/usr/lib/jvm/java-21-openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=21.0.2_p13",
+                "JAVA_HOME=/usr/lib/jvm/java-21-openjdk",
+                "MODULE_OPTS="
+            ],
+            "Cmd": null,
+            "Healthcheck": {
+                "Test": [
+                    "CMD",
+                    "docker-healthcheck"
+                ],
+                "Interval": 5000000000,
+                "Timeout": 5000000000,
+                "StartPeriod": 30000000000
+            },
+            "Image": "openzipkin/zipkin",
+            "Volumes": null,
+            "WorkingDir": "/zipkin",
+            "Entrypoint": [
+                "start-zipkin"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "alpine-version": "3.19.0",
+                "com.docker.compose.config-hash": "4851f79c11dcf51b2456a2d56e8752e8ed64e8dec5381531286850927a28ffdc",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "tracing-server",
+                "com.docker.compose.version": "1.29.2",
+                "java-home": "/usr/lib/jvm/java-21-openjdk",
+                "java-version": "21.0.2_p13",
+                "maintainer": "OpenZipkin https://gitter.im/openzipkin/zipkin",
+                "maven-version": "3.9.6",
+                "org.opencontainers.image.authors": "OpenZipkin https://gitter.im/openzipkin/zipkin",
+                "org.opencontainers.image.created": "2024-01-25",
+                "org.opencontainers.image.description": "Zipkin full distribution on OpenJDK and Alpine Linux",
+                "org.opencontainers.image.revision": "29044e2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "d5f107d6eb06b62ea13c761ffa5cea040fd64c9c31c452006f0ff58f2000b69b",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "9410/tcp": null,
+                "9411/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "9411"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/d5f107d6eb06",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "9e87a8a7aa6d",
+                        "tracing-server"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:02",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "d86b9d823979d56f5d8e78f7e6425943e81a3741e18a1fa2898a006244ad1ccf",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.2",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6",
+        "Created": "2024-01-26T01:35:12.869307421Z",
+        "Path": "java",
+        "Args": [
+            "org.springframework.boot.loader.launch.JarLauncher"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 75272,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:35:13.127905328Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:145351b4ddf1f09e2fc165b4f11fcde5376ee3ad86aaa057e75d4fde7c37b5a5",
+        "ResolvConfPath": "/var/lib/docker/containers/22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6/hostname",
+        "HostsPath": "/var/lib/docker/containers/22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6/hosts",
+        "LogPath": "/var/lib/docker/containers/22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6/22a1d19e5e64db5b6058e4590d39ecf16d8c3dee85053a056607f05495a83fa6-json.log",
+        "Name": "/admin-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "9090/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "9090"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 536870912,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 1073741824,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/b7e2dc996aa18aa6eb6da0f3c6a60e071b433cd703adbd0f1c4d35e7b905f8e8-init/diff:/var/lib/docker/overlay2/18f9fafdce0f6ce1d380edda3a9df4b6273c225f733dda1a7e403ce73e273c78/diff:/var/lib/docker/overlay2/679317a656f3a65058919120f23adf58c54e6ab95466f70bfd2af6e41b6ae938/diff:/var/lib/docker/overlay2/c97e5585493bb3fb0a0c668e9da694d8e585439fb0b5fd7a7f7d59cd55c5aa64/diff:/var/lib/docker/overlay2/9ef7410f3ee5c2d3e2b89f492874e0cdd9128a0f0ec70c00d0db8464cce1de79/diff:/var/lib/docker/overlay2/9736fed96b00078ab300cf4fc71e2af597d5a34ef5efbd2bcd6c74543135116e/diff:/var/lib/docker/overlay2/e4a122a4104743e6e9eb2e9b0754bc4514af85139437ef1bb4384caf309d546e/diff:/var/lib/docker/overlay2/30686ff00d84be286aa930974bb7a904a2bcddbf2ec5c9d2bd81cf922bfd6ce4/diff:/var/lib/docker/overlay2/c041050820d9b2e1bc1e84c1a9b560c90277acb766da676c2166837abc8aeeb1/diff:/var/lib/docker/overlay2/3053f2d59cf9a0df11f8d87e9e8b2ddc6f328f77e0467e1368060ba3aebf1e35/diff:/var/lib/docker/overlay2/5e9d872e6f8991b46ed47a719b852cacfd41b3570cb11df452c300ddfc55bd64/diff",
+                "MergedDir": "/var/lib/docker/overlay2/b7e2dc996aa18aa6eb6da0f3c6a60e071b433cd703adbd0f1c4d35e7b905f8e8/merged",
+                "UpperDir": "/var/lib/docker/overlay2/b7e2dc996aa18aa6eb6da0f3c6a60e071b433cd703adbd0f1c4d35e7b905f8e8/diff",
+                "WorkDir": "/var/lib/docker/overlay2/b7e2dc996aa18aa6eb6da0f3c6a60e071b433cd703adbd0f1c4d35e7b905f8e8/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "22a1d19e5e64",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "9090/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/opt/java/openjdk/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "JAVA_HOME=/opt/java/openjdk",
+                "LANG=en_US.UTF-8",
+                "LANGUAGE=en_US:en",
+                "LC_ALL=en_US.UTF-8",
+                "JAVA_VERSION=jdk-17.0.9+9",
+                "SPRING_PROFILES_ACTIVE=docker"
+            ],
+            "Cmd": null,
+            "Image": "springcommunity/spring-petclinic-admin-server",
+            "Volumes": null,
+            "WorkingDir": "/application",
+            "Entrypoint": [
+                "java",
+                "org.springframework.boot.loader.launch.JarLauncher"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "31568a4a43a3b83b5b57e2f3b39d7964be9c178ea8c77822c76ff35c4da11dd3",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "admin-server",
+                "com.docker.compose.version": "1.29.2",
+                "org.opencontainers.image.ref.name": "ubuntu",
+                "org.opencontainers.image.version": "22.04"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "02c3de6e36816e3b5193cedb38508b2c4c0bd66a48740ecff9cb9c4caf8145c8",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "9090/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "9090"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/02c3de6e3681",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "22a1d19e5e64",
+                        "admin-server"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:09",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "2f9a9ab03bf0aec1bc475cac352edcd7f0b09a717e6485047e6badc213c2111f",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.9",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766",
+        "Created": "2024-01-26T01:34:56.959544172Z",
+        "Path": "/run.sh",
+        "Args": [],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 74074,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:34:57.297013067Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:9536c67f29ad2806133bab56a960349bf420fc75c0912d03aa3fd5586a29f1e3",
+        "ResolvConfPath": "/var/lib/docker/containers/8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766/hostname",
+        "HostsPath": "/var/lib/docker/containers/8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766/hosts",
+        "LogPath": "/var/lib/docker/containers/8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766/8dd326d33f2d49f72f2fe239feac4563fb0329095ca546c13b13a282de173766-json.log",
+        "Name": "/grafana-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "3000/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "3000"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 268435456,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 536870912,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/b11913a561c74003cba83e925ddad308f507747801917270ae9477ec4f00178d-init/diff:/var/lib/docker/overlay2/ptpemp8n6mlyscc4v1uk1nfgm/diff:/var/lib/docker/overlay2/e4as0szl8ka5w4oqd5xzjdzk6/diff:/var/lib/docker/overlay2/rrvmrkbstaodo95164drvvdph/diff:/var/lib/docker/overlay2/60770d59e00ff2510d4af6878f575769d8a951a1966cc10d47fba80a04442a5b/diff:/var/lib/docker/overlay2/bba95235205e77817f1f65192cc2ea7cc030c1766f5963b7f52823bdbef54630/diff:/var/lib/docker/overlay2/2f1e883f6691992e80811c6bd1e5aeacab2302b87c0a3976d68d63f2c7f8573f/diff",
+                "MergedDir": "/var/lib/docker/overlay2/b11913a561c74003cba83e925ddad308f507747801917270ae9477ec4f00178d/merged",
+                "UpperDir": "/var/lib/docker/overlay2/b11913a561c74003cba83e925ddad308f507747801917270ae9477ec4f00178d/diff",
+                "WorkDir": "/var/lib/docker/overlay2/b11913a561c74003cba83e925ddad308f507747801917270ae9477ec4f00178d/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [],
+        "Config": {
+            "Hostname": "8dd326d33f2d",
+            "Domainname": "",
+            "User": "grafana",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "3000/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/usr/share/grafana/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "GF_PATHS_CONFIG=/etc/grafana/grafana.ini",
+                "GF_PATHS_DATA=/var/lib/grafana",
+                "GF_PATHS_HOME=/usr/share/grafana",
+                "GF_PATHS_LOGS=/var/log/grafana",
+                "GF_PATHS_PLUGINS=/var/lib/grafana/plugins",
+                "GF_PATHS_PROVISIONING=/etc/grafana/provisioning"
+            ],
+            "Cmd": null,
+            "Image": "petclinic_grafana-server",
+            "Volumes": null,
+            "WorkingDir": "/",
+            "Entrypoint": [
+                "/run.sh"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "1243939fade448b71cf6ab526fbb9b4200c65ccf5e7cb6a71862606fb0cdc5bb",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "grafana-server",
+                "com.docker.compose.version": "1.29.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "279e46265a1691f7ea17d5aebe25edcaaca5302c5ac93bb43bcdd86243ddae0d",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "3000/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "3000"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/279e46265a16",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "grafana-server",
+                        "8dd326d33f2d"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:03",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "809f83f5d2114db012684cf14762200788537b280e11d0dc01cc398f80b6656d",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.3",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a",
+        "Created": "2024-01-26T01:34:56.965081168Z",
+        "Path": "/bin/prometheus",
+        "Args": [
+            "--config.file=/etc/prometheus/prometheus.yml",
+            "--storage.tsdb.path=/prometheus",
+            "--web.console.libraries=/usr/share/prometheus/console_libraries",
+            "--web.console.templates=/usr/share/prometheus/consoles"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 74306,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:34:57.443880676Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:3e316bdf0b5947281e2728f83a78871ad122ce623bdff3de1c314569d1c30315",
+        "ResolvConfPath": "/var/lib/docker/containers/93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a/hostname",
+        "HostsPath": "/var/lib/docker/containers/93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a/hosts",
+        "LogPath": "/var/lib/docker/containers/93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a/93c64ef39df653c0d44f4fff31363602d1e632e4c30d59f99728d8646cb12b9a-json.log",
+        "Name": "/prometheus-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "9090/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "9091"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 268435456,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 536870912,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/4b842cc9ff303bf67198a5e1dbd24769abb36675980a3b9cd1891961c946e7ac-init/diff:/var/lib/docker/overlay2/hb98jipnge6frujkmvjrh7e1a/diff:/var/lib/docker/overlay2/ec41c80a5cf5d379697155fbfb53e7e472ab892cf9ef8be2f9a151d4420a7e22/diff:/var/lib/docker/overlay2/60a0228dcc47fcf5672294c06c6b3e20ba03a9f4f12dc6d7c8196bafd7404df5/diff:/var/lib/docker/overlay2/160622c53a874738c04903c4078c00bdc9f89b49f5153c91bc8075da01ddfe7a/diff:/var/lib/docker/overlay2/f52413b3b21ab4a3d373b3b0d0699d1148e81ffe30dfba3309280558ab325ed7/diff:/var/lib/docker/overlay2/13341583d017920c61152e9c7b2c67318c2b41be822e86d65271e002c9d6425c/diff:/var/lib/docker/overlay2/9cc59955608e0708fdd361ccee1f104d3257b72b4800fb9ec377641299c94c82/diff:/var/lib/docker/overlay2/df6ba1bec9178cecde431b1742fead0ad7def2711e8110e0954bfcb83e3363db/diff:/var/lib/docker/overlay2/99a05db8db0482cd9b2453dea2324482fe6dd5f7b1928ed81a5ff264b8905b41/diff:/var/lib/docker/overlay2/3f6f814e7ce84b334c74258bb969b80775e7466131250aa4542b8e98c1a48889/diff",
+                "MergedDir": "/var/lib/docker/overlay2/4b842cc9ff303bf67198a5e1dbd24769abb36675980a3b9cd1891961c946e7ac/merged",
+                "UpperDir": "/var/lib/docker/overlay2/4b842cc9ff303bf67198a5e1dbd24769abb36675980a3b9cd1891961c946e7ac/diff",
+                "WorkDir": "/var/lib/docker/overlay2/4b842cc9ff303bf67198a5e1dbd24769abb36675980a3b9cd1891961c946e7ac/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "a4012e7abf04196195cc09f8935a000786396e259303c48706f8ff32151d465d",
+                "Source": "/var/lib/docker/volumes/a4012e7abf04196195cc09f8935a000786396e259303c48706f8ff32151d465d/_data",
+                "Destination": "/prometheus",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "93c64ef39df6",
+            "Domainname": "",
+            "User": "nobody",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "9090/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+            ],
+            "Cmd": [
+                "--config.file=/etc/prometheus/prometheus.yml",
+                "--storage.tsdb.path=/prometheus",
+                "--web.console.libraries=/usr/share/prometheus/console_libraries",
+                "--web.console.templates=/usr/share/prometheus/consoles"
+            ],
+            "Image": "petclinic_prometheus-server",
+            "Volumes": {
+                "/prometheus": {}
+            },
+            "WorkingDir": "/prometheus",
+            "Entrypoint": [
+                "/bin/prometheus"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "7de2e89504c49ed3de4f8a144b9ca06619975657213b1678467ed7e5220fd43e",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "prometheus-server",
+                "com.docker.compose.version": "1.29.2",
+                "maintainer": "The Prometheus Authors \u003cprometheus-developers@googlegroups.com\u003e"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "db5d7688dc9ade06ecd20809cf2309b38e984cafb1d460f55db3c9362a9e2748",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "9090/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "9091"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/db5d7688dc9a",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "93c64ef39df6",
+                        "prometheus-server"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:05",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "febf39583dd6784fec753ea328ed58e95eb0907c1dc564174ada4d4252bd4b07",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.5",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+---
+[
+    {
+        "Id": "adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c",
+        "Created": "2024-01-26T01:34:56.964710302Z",
+        "Path": "docker-entrypoint.sh",
+        "Args": [
+            "mysqld"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 74368,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2024-01-26T01:34:57.500592712Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:ae2502152260b33bfafb9c3e3a1811086317e0236abf83a59503cec0f8980573",
+        "ResolvConfPath": "/var/lib/docker/containers/adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c/hostname",
+        "HostsPath": "/var/lib/docker/containers/adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c/hosts",
+        "LogPath": "/var/lib/docker/containers/adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c/adf9991deb2104600c5b9bfe96080c71b75e66448dc124acb8ad8265e8e0785c-json.log",
+        "Name": "/mysql-server",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "",
+        "ExecIDs": null,
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "petclinic_petclinic-network",
+            "PortBindings": {
+                "3306/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "3306"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "CapAdd": null,
+            "CapDrop": null,
+            "CgroupnsMode": "private",
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "private",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": null,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware",
+                "/sys/devices/virtual/powercap"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/8791c682a3d698ef87afe9e1219a68ceb309b8b4c768c9cdb8dee836d4aef0a4-init/diff:/var/lib/docker/overlay2/f6095f0c03913e9333b37d7a2f23946928e894753375017d346804a473d5c697/diff:/var/lib/docker/overlay2/6d3d160d80212df16d66dca47ba5e109aebe71637ccba72b5d43d04f95d843dd/diff:/var/lib/docker/overlay2/24b83e7f8144c744153064deb83efcc04ad38a12817add74bae846df285dcdda/diff:/var/lib/docker/overlay2/a6ff6d4ca7cd5a6b8c20d879cbe8599467485c363ecb46f92a308895090cedba/diff:/var/lib/docker/overlay2/d80d813a113f2a4629884f4d2982b27d7ad4974f170db2647a1109ddbfbee12f/diff:/var/lib/docker/overlay2/eb21fb2d62e57566b5f813e4e7792486c33b4599d7881615a67a3267c7398dd8/diff:/var/lib/docker/overlay2/d5a1a83fff6aa918d3eeff7f1b48384e8cd94d96eebeff82856ecb5a03a8fced/diff:/var/lib/docker/overlay2/69ad158de8c5c8aa7f7e5b48eedcd36bc89fb02d9997d9501a96017698b01628/diff:/var/lib/docker/overlay2/875f21e782787c8b2bc552f977d7b5c9e0cda4a66434562662e44dd9ec5e7b21/diff:/var/lib/docker/overlay2/1d515be4407993fb63c28c301691d5177e01b00856159bd8ba7cbc26b0abfd2e/diff",
+                "MergedDir": "/var/lib/docker/overlay2/8791c682a3d698ef87afe9e1219a68ceb309b8b4c768c9cdb8dee836d4aef0a4/merged",
+                "UpperDir": "/var/lib/docker/overlay2/8791c682a3d698ef87afe9e1219a68ceb309b8b4c768c9cdb8dee836d4aef0a4/diff",
+                "WorkDir": "/var/lib/docker/overlay2/8791c682a3d698ef87afe9e1219a68ceb309b8b4c768c9cdb8dee836d4aef0a4/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "5b5ef14e5ea12dec8532e4a2f1fad9576bfd9b415ff2337048a0b38a8882f7dd",
+                "Source": "/var/lib/docker/volumes/5b5ef14e5ea12dec8532e4a2f1fad9576bfd9b415ff2337048a0b38a8882f7dd/_data",
+                "Destination": "/var/lib/mysql",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "adf9991deb21",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "3306/tcp": {},
+                "33060/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "MYSQL_DATABASE=petclinic",
+                "MYSQL_ROOT_PASSWORD=rootpassword",
+                "MYSQL_USER=petclinic",
+                "MYSQL_PASSWORD=petclinicpassword",
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "GOSU_VERSION=1.16",
+                "MYSQL_MAJOR=innovation",
+                "MYSQL_VERSION=8.1.0-1.el8",
+                "MYSQL_SHELL_VERSION=8.0.34-1.el8"
+            ],
+            "Cmd": [
+                "mysqld"
+            ],
+            "Image": "mysql:8.1",
+            "Volumes": {
+                "/var/lib/mysql": {}
+            },
+            "WorkingDir": "",
+            "Entrypoint": [
+                "docker-entrypoint.sh"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "fa54214276fdaadd9cd7c37677fd414f659957352cbed28fae2363933d6ae268",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "petclinic",
+                "com.docker.compose.project.config_files": "docker-compose.yml",
+                "com.docker.compose.project.working_dir": "/home/a/petclinic",
+                "com.docker.compose.service": "mysql-server",
+                "com.docker.compose.version": "1.29.2"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "e75f787e53b9766269e513748d0aee09e800352526266f47a3cf2e7610f0b0c8",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "3306/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "3306"
+                    }
+                ],
+                "33060/tcp": null
+            },
+            "SandboxKey": "/var/run/docker/netns/e75f787e53b9",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "petclinic_petclinic-network": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "adf9991deb21",
+                        "mysql-server"
+                    ],
+                    "MacAddress": "02:42:ac:15:00:06",
+                    "NetworkID": "6b784161cadd363b73ab1f8c5f3a9365a8b3cd9296e131f58b4b9fd66929edb3",
+                    "EndpointID": "2805461a9cf092c9d0a45e4c2a715646253c9a7e14bcd6f83cbe58e54e2d3cea",
+                    "Gateway": "172.21.0.1",
+                    "IPAddress": "172.21.0.6",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]

@@ -1,7 +1,7 @@
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/VetsServiceApplication.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/CacheConfig.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/VetsProperties.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Specialty.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Vet.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/VetRepository.java
-/home/a/Documents/petv4/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/web/VetResource.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/VetRepository.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/VetsServiceApplication.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/CacheConfig.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/web/VetResource.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Vet.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/system/VetsProperties.java
+/home/a/petclinic/spring-petclinic-vets-service/src/main/java/org/springframework/samples/petclinic/vets/model/Specialty.java
