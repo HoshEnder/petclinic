@@ -1,8 +1,0 @@
-Le service api-gateway est accessible.
-Le service mysql-server est accessible.
-Le service admin-server est accessible.
-Le service customers-service n'est pas accessible.
-Le service config-server est accessible.
-Le service discovery-server est accessible.
-Le service visits-service n'est pas accessible.
-Le service vets-service n'est pas accessible.

@@ -1,4 +1,0 @@
-id	name
-3	dentistry
-1	radiology
-2	surgery

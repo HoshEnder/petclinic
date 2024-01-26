@@ -1,8 +1,0 @@
-Tables_in_petclinic
-owners
-pets
-specialties
-types
-vet_specialties
-vets
-visits

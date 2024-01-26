@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Configuration des services
@@ -11,6 +10,9 @@ declare -A services=(
     ["vets-service"]="8083"
     ["api-gateway"]="8080"
     ["admin-server"]="9090"
+    ["tracing-server"]="9411"
+    ["grafana-server"]="3000"
+    ["prometheus-server"]="9091"
     # Ajoutez d'autres services si nécessaire
 )
 
@@ -43,14 +45,20 @@ mysql -h 127.0.0.1 -u petclinic -ppetclinicpassword -e "SHOW TABLES;" petclinic 
 echo "Vérification des données dans les tables..."
 tables=("owners" "pets" "specialties" "types" "vet_specialties" "vets" "visits")
 for table in "${tables[@]}"; do
-    mysql -h 127.0.0.1 -u petclinic -ppetclinicpassword -e "SELECT * FROM $table LIMIT 50;" petclinic >> table_data_${table}.txt
+    mysql -h 127.0.0.1 -u petclinic -ppetclinicpassword -e "SELECT * FROM $table LIMIT 50;" petclinic > table_data_${table}.txt
 done
 
 # Appel des fonctions
 check_service_connectivity
 extract_and_analyze_logs
 
+# Inclure le fichier docker-compose.yml
+cp docker-compose.yml .
+
+# Rechercher et archiver les fichiers application.yaml/application.yml
+find . -type f \( -name "application.yaml" -o -name "application.yml" \) -exec sh -c 'mkdir -p "./config/$(dirname {})" && cp {} "./config/$(dirname {})"' \;
+
 # Archivage des fichiers de résultats dans une archive zip
-zip results_archive.zip network_connectivity.txt all-services-logs.txt all-inspect-logs.txt db_verification.txt $(printf "table_data_%s.txt " "${tables[@]}")
+zip -m results_archive.zip network_connectivity.txt all-services-logs.txt all-inspect-logs.txt db_verification.txt $(printf "table_data_%s.txt " "${tables[@]}") docker-compose.yml $(find ./config -type f)
 
 echo "Script terminé et les résultats archivés dans results_archive.zip."
