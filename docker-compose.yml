@@ -1,0 +1,178 @@
+version: '3'
+
+x-defaults: &defaults
+  deploy:
+    resources:
+      limits:
+        memory: 512M
+
+x-healthcheck: &healthcheck
+  interval: 5s
+  timeout: 5s
+  retries: 10
+
+x-dependencies-config-discovery: &dependencies-config-discovery
+  depends_on:
+    config-server:
+      condition: service_healthy
+    discovery-server:
+      condition: service_healthy
+
+services:
+  config-server:
+    image: springcommunity/spring-petclinic-config-server
+    container_name: config-server
+    <<: *defaults
+    healthcheck:
+      test: ["CMD", "curl", "-I", "http://config-server:8888"]
+      <<: *healthcheck
+    ports:
+      - 8888:8888
+    networks:
+      - petclinic-network
+
+  discovery-server:
+    image: springcommunity/spring-petclinic-discovery-server
+    container_name: discovery-server
+    <<: *defaults
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://discovery-server:8761"]
+      <<: *healthcheck
+    depends_on:
+      config-server:
+        condition: service_healthy
+    ports:
+      - 8761:8761
+    networks:
+      - petclinic-network
+
+  customers-service:
+    image: spring-customers
+    container_name: customers-service
+    <<: *defaults
+    <<: *dependencies-config-discovery
+    ports:
+      - 8081:8081
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker,mysql
+      - DATABASE_HOST=mysql-server
+      - DATABASE_PORT=3306
+      - DATABASE_NAME=petclinic
+      - DATABASE_USER=petclinic
+      - DATABASE_PASSWORD=petclinicpassword
+    networks:
+      - petclinic-network
+
+  visits-service:
+    image: spring-visits
+    container_name: visits-service
+    <<: *defaults
+    <<: *dependencies-config-discovery
+    ports:
+      - 8097:8097
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker,mysql
+      - DATABASE_HOST=mysql-server
+      - DATABASE_PORT=3306
+      - DATABASE_NAME=petclinic
+      - DATABASE_USER=petclinic
+      - DATABASE_PASSWORD=petclinicpassword
+    networks:
+      - petclinic-network
+
+  vets-service:
+    image: spring-vets
+    container_name: vets-service
+    <<: *defaults
+    <<: *dependencies-config-discovery
+    ports:
+      - 8083:8083
+    environment:
+      - SPRING_PROFILES_ACTIVE=docker,mysql
+      - DATABASE_HOST=mysql-server
+      - DATABASE_PORT=3306
+      - DATABASE_NAME=petclinic
+      - DATABASE_USER=petclinic
+      - DATABASE_PASSWORD=petclinicpassword
+    networks:
+      - petclinic-network
+
+  api-gateway:
+    image: springcommunity/spring-petclinic-api-gateway
+    container_name: api-gateway
+    <<: *defaults
+    <<: *dependencies-config-discovery
+    ports:
+      - 8080:8080
+    networks:
+      - petclinic-network
+
+  tracing-server:
+    image: openzipkin/zipkin
+    container_name: tracing-server
+    <<: *defaults
+    environment:
+      - JAVA_OPTS=-XX:+UnlockExperimentalVMOptions -Djava.security.egd=file:/dev/./urandom
+    ports:
+      - 9411:9411
+    networks:
+      - petclinic-network
+
+  admin-server:
+    image: springcommunity/spring-petclinic-admin-server
+    container_name: admin-server
+    <<: *defaults
+    <<: *dependencies-config-discovery
+    ports:
+      - 9090:9090
+    networks:
+      - petclinic-network
+
+  grafana-server:
+    build: ./docker/grafana
+    container_name: grafana-server
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+    ports:
+      - 3000:3000
+    networks:
+      - petclinic-network
+
+  prometheus-server:
+    build: ./docker/prometheus
+    container_name: prometheus-server
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+    ports:
+      - 9091:9090
+    networks:
+      - petclinic-network
+
+  mysql-server:
+      image: mysql:8.1
+      container_name: mysql-server
+      environment:
+        MYSQL_DATABASE: petclinic
+        MYSQL_ROOT_PASSWORD: rootpassword
+        MYSQL_USER: petclinic
+        MYSQL_PASSWORD: petclinicpassword
+      ports:
+        - 3306:3306
+      networks:
+        - petclinic-network
+      deploy:
+        resources:
+          limits:
+            cpus: '1.0'  # Limite du CPU à 1 unité
+            memory: 500M  # Limite de la mémoire à 500 Megabytes
+          reservations:
+            cpus: '0.5'  # Réservation de CPU à 0.5 unité
+            memory: 250M  # Réservation de mémoire à 250 Megabytes
+
+networks:
+  petclinic-network:
+    driver: bridge
